@@ -12,11 +12,11 @@ Designed a simple attendance register using Python GUI Tkinter.
 
 ## Options for attendance
 
-/ : Present
-L : Late Entry
-O : Absent
-A : Authorized Absent
-S : Sick
+- / : Present
+- L : Late Entry
+- O : Absent
+- A : Authorized Absent
+- S : Sick
 
 ## Python GUI-Tkinter
 
